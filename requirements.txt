@@ -1,5 +1,5 @@
 absl-py==2.2.0
-altgraph @ file:///AppleInternal/Library/BuildRoots/226e9c8c-edb1-11ee-8f17-a65dcee5a99e/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+altgraph==0.17.2
 annotated-types==0.7.0
 anyio==4.8.0
 appdirs==1.4.4
